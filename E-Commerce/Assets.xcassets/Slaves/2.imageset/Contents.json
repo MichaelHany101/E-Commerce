@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "checkicon.png",
+      "filename" : "2.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "checkicon@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "checkicon@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
